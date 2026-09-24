@@ -1,10 +1,10 @@
 [
   {
-    "name": "MoreNavalUnitMovementPro",
+    "name": "Blitzkrieg",
     "cost": 0,
     "uniques": [
       "Unbuildable <for [AI player]>",
-      "[+5] Movement <for [Water] units>",
-      "[+5] Movement <for [Land] units>"]
+      "[+6] Movement <for [Water] units>",
+      "[+6] Movement <for [Land] units>"]
   }
 ] 
